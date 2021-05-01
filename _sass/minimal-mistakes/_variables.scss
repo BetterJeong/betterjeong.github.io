@@ -17,7 +17,8 @@ $serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-$Jeju: 'Jeju Myeongjo'
+$jeju: 'Jeju Myeongjo';
+$tpshop: 'InkLipquid';
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -30,8 +31,8 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $Jeju !default;
-$header-font-family: $Jeju !default;
+$global-font-family: $tpshop !default;
+$header-font-family: $tpshop !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
