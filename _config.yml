@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR" # 기본 언어 선언
-title                    : "우하핫 드디어 성공했다" #title, 제목에 표시되는 부분
+title                    : "Done is better than perfect" #title, 제목에 표시되는 부분
 title_separator          : "-"
-subtitle                 : "나는 정말 최고야" # 제목 아래에 표시되는 부분
+subtitle                 : "Studying EJ" # 제목 아래에 표시되는 부분
 name                     : "Better Jeong"
-description              : "난 혹시 천재인가?"
+description              : ""
 url                      : "https://betterjeong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Better Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "하하 이걸 드디어 만들다니"
+  bio              : ""
   location         : "Seoul, South Korea"
   email            :
   links:
