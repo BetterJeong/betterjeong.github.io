@@ -1,5 +1,5 @@
 ---
-title:  "[Jekyll] 이것은 제목입니다"
+title:  "[GitHub Pages] 이것은 제목입니다"
 excerpt: "포스트 목록에서 보여지는 소개 글"
 
 categories:
