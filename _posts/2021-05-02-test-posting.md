@@ -4,8 +4,6 @@ excerpt: "포스트 목록에서 보여지는 소개 글"
 
 categories:
   - Blog
-tags:
-  - [Blog]
 
 toc: false
 toc_sticky: false
