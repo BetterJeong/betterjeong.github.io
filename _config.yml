@@ -95,7 +95,7 @@ analytics:
 # Site Author 저자 소개 부분이에요
 author:
   name             : "Better Jeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/woman-3190858_1920.jpg" # 프로필 이미지
   bio              : ""
   location         : "Seoul, South Korea"
   email            :
