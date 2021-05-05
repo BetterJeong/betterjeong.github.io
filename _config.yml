@@ -208,7 +208,7 @@ sass:
 
 # Outputting 초기 블로그 표시 방법 설정
 permalink: /:categories/:title/
-paginate: 5 # 한번에 보여지는 포스트 수
+paginate: 3 # 한번에 보여지는 포스트 수
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
