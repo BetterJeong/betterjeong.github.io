@@ -613,7 +613,7 @@ ko: &DEFAULT_KO
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Update:"
+  date_label                 : "Updated:"
   comments_label             : "댓글남기기"
   comments_title             : "댓글"
   more_label                 : "더 보기"
