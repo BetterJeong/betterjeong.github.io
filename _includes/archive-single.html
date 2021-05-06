@@ -26,7 +26,7 @@
     </h2>
     <p class="archive__item-excerpt"><i class="far fa-calendar-alt"></i> {{ post.date | date: "%m/%d/%Y" }} </p>
 <!-- 날짜만 보여주는 코드 -->
-    {% include page__meta.html type=include.type %}
+<!--    {% include page__meta.html type=include.type %}-->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
