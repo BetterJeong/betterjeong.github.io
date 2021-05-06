@@ -24,8 +24,9 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    <!-- 날짜만 보여주는 코드 -->
     <p class="archive__item-excerpt"><i class="far fa-calendar-alt"></i> {{ post.date | date: "%m/%d/%Y" }} </p>
-<!-- 날짜만 보여주는 코드 -->
+<!-- 게시글 읽는 소요 시간을 최근 포스트 페이지에서 보여주는 코드 : 주석 처리해서 없앰-->
 <!--    {% include page__meta.html type=include.type %}-->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
