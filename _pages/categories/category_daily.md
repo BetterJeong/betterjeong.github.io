@@ -1,7 +1,7 @@
 ---
-title: "daily"
+title: "blog"
 layout: archive
-permalink: categories/daily
+permalink: categories/blog
 author_profile: true
 sidebar_main: true
 ---
