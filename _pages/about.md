@@ -9,6 +9,6 @@ layout: single
 <img src="/assets/images/about/210510_cafe.jpg" width="300" height="300">
 <br><br>
 <h1 align="center">Better Jeong</h1>
-<center>나은정</center><br>
-<h3 align="center">한성대학교 IT공과대학 21학번</h3>
+<center>나은정</center>
+<h5 align="center">한성대학교 IT공과대학 21학번</h3>
 </p>
