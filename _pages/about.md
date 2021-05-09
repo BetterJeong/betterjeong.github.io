@@ -5,10 +5,10 @@ layout: single
 ---
 
 <center>
-<br><br>
+
 <img src="/assets/images/about/210510_cafe.jpg" width="300" height="300" align="center">
-<br><br>
+
 **Better Jeong**
-나은정<br>
+나은정
 한성대학교 IT공과대학 21학번
 </center>
