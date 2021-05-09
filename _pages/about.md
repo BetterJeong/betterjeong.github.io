@@ -4,11 +4,9 @@ permalink: /about/
 layout: single
 ---
 
-<p align="center">
 <br><br>
-<img src="/assets/images/about/210510_cafe.jpg" width="300" height="300">
+<img src="/assets/images/about/210510_cafe.jpg" width="300" height="300" align="center">
 <br><br>
-<h1 align="center">Better Jeong</h1>
+# Better Jeong
 <center>나은정</center>
-<h5 align="center">한성대학교 IT공과대학 21학번</h3>
-</p>
+##### 한성대학교 IT공과대학 21학번
