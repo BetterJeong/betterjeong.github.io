@@ -13,7 +13,7 @@ layout: single
 <p align="center">
     <h1>
         Better Jeong
-        </h1>
+    </h1>
     <br>
     <h5>
         나은정
