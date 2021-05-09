@@ -8,8 +8,6 @@ layout: single
 <br><br>
 <img src="/assets/images/about/210510_cafe.jpg" width="300" height="300">
 <br><br>
-</p>
-<p align="center">
 <h1>Better Jeong</h1>
 <br>
 <h5>나은정</h5>
