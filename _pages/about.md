@@ -1,7 +1,9 @@
 ---
-title: "<center>About<br>Better Jeong</center>"
+title: "<center><br><br>About<br><br><br><br></center>"
 permalink: /about/
 layout: single
 ---
 
-<img src="/assets/images/about/210510_cafe.jpg" style="text-align: center" width="600" height="600">
+<br><br><br>
+<img src="/assets/images/about/210510_cafe.jpg" width="450" height="450">
+<br><br><br>
