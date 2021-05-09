@@ -10,15 +10,9 @@ layout: single
 <br><br>
 </p>
 <p align="center">
-<h1>
-Better Jeong
-</h1>
+<h1>Better Jeong</h1>
 <br>
-<h5>
-나은정
-</h5>
+<h5>나은정</h5>
 <br><br>
-<h3>
-한성대학교 IT공과대학 21학번
-</h3>
+<h3>한성대학교 IT공과대학 21학번</h3>
 </p>
