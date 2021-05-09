@@ -5,9 +5,9 @@ layout: single
 ---
 
 <p align="center">
-<br><br>
-<img src="/assets/images/about/210510_cafe.jpg" width="300" height="300">
-<br><br>
+    <br><br>
+    <img src="/assets/images/about/210510_cafe.jpg" width="300" height="300">
+    <br><br>
 </p>
 
 <p align="center">
