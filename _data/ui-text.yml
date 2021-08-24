@@ -614,7 +614,7 @@ ko: &DEFAULT_KO
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Posted:"
-  update_label               : "Updated:"
+  update_label               : "     Updated:"
   comments_label             : "댓글남기기"
   comments_title             : "댓글"
   more_label                 : "더 보기"
