@@ -39,7 +39,7 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.1em;
+    margin-top: 0.5em;
   }
 }
 
@@ -126,7 +126,7 @@
 
 .list__item {
   .page__meta {
-    margin: 0 0 4px;
+    margin: 0 0 1px;
     font-size: 0.6em;
   }
 }
