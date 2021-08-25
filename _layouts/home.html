@@ -15,8 +15,7 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-    <!--{% include archive-single.html type=entries_layout %}-->
-    <a href="{{ post.url | relative_url }}" rel="permalink"><span class="page__meta"> <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y.%m.%d" }}</span><p>{{ title }}</p></a>
+    {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
 
