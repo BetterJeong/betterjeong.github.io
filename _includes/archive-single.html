@@ -19,15 +19,14 @@
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}<p class="page__meta"> <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y.%m.%d" }}</p></a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}<p class="page__meta"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y.%m.%d" }}</p></a>
       {% endif %}
     </h2>
-    <!-- 날짜만 보여주는 코드 -->
+    <!-- 날짜만 보여주는 코드
     {% if post.date %}
-      <p class="page__meta"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y.%m.%d" }}</p>
-    {% endif %}
+    {% endif %} -->
 <!-- 게시글 읽는 소요 시간을 최근 포스트 페이지에서 보여주는 코드 : 주석 처리해서 없앰-->
 <!--    {% include page__meta.html type=include.type %}-->
 <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}-->
