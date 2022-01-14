@@ -23,13 +23,13 @@
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }} <span class="page__meta"> <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y.%m.%d" }}</span></a>
       {% endif %}
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-      {% endif %}
     </h2>
     <!-- 날짜만 보여주는 코드
     {% if post.date %}
     {% endif %} -->
+    {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {% endif %}
 <!-- 게시글 읽는 소요 시간을 최근 포스트 페이지에서 보여주는 코드 : 주석 처리해서 없앰-->
 <!--    {% include page__meta.html type=include.type %}-->
   </article>
