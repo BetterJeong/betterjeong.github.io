@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/betterjeong"
-   # - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: Instagram
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_better__jeong"
 
 # Site Footer
 footer:
