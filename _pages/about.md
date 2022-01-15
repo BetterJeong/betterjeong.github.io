@@ -1,12 +1,9 @@
 ---
-title: "<center><br>About</center>"
+title: "# <center><br>About</center>"
 permalink: /about/
 layout: single
 ---
 
-<center>
-<br><br><img src="/assets/images/about/220114_about.jpg" width="600"><br><br>
-<strong>Better Jeong</strong><br>
-나은정<br><br>
-한성대학교 IT공과대학 21학번
-</center>
+<center><br><br><img src="/assets/images/about/220114_about.jpg" width="600"><br><br></center>
+<center>나은정<br><strong>Better Jeong</strong><br>
+The student who wants to learn a lot</center>
