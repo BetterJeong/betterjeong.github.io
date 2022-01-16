@@ -9,6 +9,7 @@ layout: single
 <center>✉ Email: eunjeong42na@gmail.com</center>  
 <center>😸 GitHub: [https://github.com/BetterJeong](https://github.com/BetterJeong)</center>  
 <center>📷 Instagram: [@_better__jeong](https://instagram.com/_better__jeong)</center>  
+<center><a href="https://instagram.com/_better__jeong">@_better__jeong</a></center>  
 
 ### 🐥 INTRO  
 + 능력 있는 개발자를 꿈꾸며 컴퓨터공학부에 재학중인 학생입니다.  
