@@ -1,10 +1,11 @@
 ---
-title: "# <center><br>About</center>"
+title: "# <center>About</center>"
 permalink: /about/
 layout: single
 ---
+<center><img src="/assets/images/about/220114_about.jpg" width="600"></center>  
 
-### <center><br><br><img src="/assets/images/about/220114_about.jpg" width="600"><br><br>나은정<br>Better Jeong<br>The student who wants to learn a lot</center>  
+### <center>나은정<br>Better Jeong<br>The student who wants to learn a lot</center>  
 
 <center>✉ Email: eunjeong42na@gmail.com</center>  
 <center>😸 GitHub: [https://github.com/BetterJeong](https://github.com/BetterJeong)</center>  
