@@ -3,7 +3,7 @@ title: "# <center>About</center>"
 permalink: /about/
 layout: single
 ---
-<center><img src="/assets/images/about/220114_about.jpg" width="600"></center>  
+<center><img src="/assets/images/about/220114_about.jpg" width="500" margin="2px"></center>  
 
 ### <center>나은정<br>Better Jeong<br>The student who wants to learn a lot</center>  
 
