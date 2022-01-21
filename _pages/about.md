@@ -22,13 +22,13 @@ layout: single
 ### 💻 STACKS  
 
 ### 🌳 EXPERIENCE  
-##### GitHub Pages 블로그  
++ ##### GitHub Pages 블로그  
 2021.04. ~ ing.  
 
-##### 컴퓨터공학부 소모임 BUG  
++ ##### 컴퓨터공학부 소모임 BUG  
 2021.09 ~ ing.  
 
-##### 한성대학교 정보전산원 정보화팀 HSD 3기  
++ ##### 한성대학교 정보전산원 정보화팀 HSD 3기  
 2022\. ~ ing.  
 
 ### 🏆 AWARDS  
