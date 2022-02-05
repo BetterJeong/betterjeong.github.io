@@ -35,6 +35,7 @@ layout: single
 + 한성대학교 2021학년도 문제해결을 위한 코딩 첫걸음 프로그램 자율 공모전  
   + 2022.01.12.  
   + tkinter 부문 금상  
+  + [클릭해서 이동](https://betterjeong.github.io/python/21123101/)  
 
 ### 🚀 LIFE  
 2021.3. ~ 한성대학교 IT공과대학 컴퓨터공학부  
