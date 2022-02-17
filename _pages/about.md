@@ -9,7 +9,7 @@ layout: single
 
 <center>✉ Email: eunjeong42na@gmail.com</center>  
 <center>😸 GitHub: <a href="https://github.com/BetterJeong">https://github.com/BetterJeong</a></center>  
-<center>📷 Instagram: <a href="https://instagram.com/_better__jeong">@_better__jeong</a></center>  
+<center>📷 Instagram: <a href="https://instagram.com/_betterjeong">@_betterjeong</a></center>  
 <center></center>  
 
 ### 🐥 INTRO  
