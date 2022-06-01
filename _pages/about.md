@@ -31,6 +31,9 @@ layout: single
 + [한성대학교 정보전산원 정보화팀 HSD 3기 🔗](https://hansung.ac.kr/info/8632/subview.do)  
   + 2022.01. ~ ing.  
 
++ 멋쟁이 사자처럼 대학 10기  
+  + 2022.03. ~ ing.  
+
 ### 🏆 AWARDS  
 + [한성대학교 2021학년도 문제해결을 위한 코딩 첫걸음 프로그램 자율 공모전 🔗](https://betterjeong.github.io/python/21123101/)  
   + 2022.01.12.  
