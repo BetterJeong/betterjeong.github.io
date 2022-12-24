@@ -1,5 +1,5 @@
 ---
-title: "# <center>About</center>"
+title: ""
 permalink: /about/
 layout: single
 ---
