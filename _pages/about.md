@@ -5,7 +5,7 @@ layout: single
 ---
 <center><img src="/assets/images/about/221224_about.jpg" width="400" margin="2px"></center>  
 
-### <center>나은정<br>Better Jeong<br>The student who wants to learn a lot</center>  
+### <center>나은정</center>  
 
 <center>✉ Email: eunjeong42na@gmail.com</center>  
 <center>😸 GitHub: <a href="https://github.com/BetterJeong">https://github.com/BetterJeong</a></center>  
