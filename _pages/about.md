@@ -3,7 +3,7 @@ title: "# <center>About</center>"
 permalink: /about/
 layout: single
 ---
-<center><img src="/assets/images/about/220114_about.jpg" width="500" margin="2px"></center>  
+<center><img src="/assets/images/about/221224_about.jpg" width="400" margin="2px"></center>  
 
 ### <center>나은정<br>Better Jeong<br>The student who wants to learn a lot</center>  
 
@@ -32,7 +32,7 @@ layout: single
   + 2022.01. ~ ing.  
 
 + 멋쟁이 사자처럼 대학 10기  
-  + 2022.03. ~ ing.  
+  + 2022.03. ~ 2022.12.  
 
 ### 🏆 AWARDS  
 + [한성대학교 2021학년도 문제해결을 위한 코딩 첫걸음 프로그램 자율 공모전 🔗](https://betterjeong.github.io/python/21123101/)  
@@ -44,4 +44,7 @@ layout: single
 2021\. 한성대학교 컴퓨터공학부 학생회  
 2021.09. ~ 2022.01. [서울런 멘토단 🔗](https://betterjeong.github.io/diary/22031601/)  
 2021.09. ~ 2022.02. 사회봉사단 HUV 4기  
+2021.12. ~ 2022.08. 한성대학교 컴퓨터공학부 소모임 BUG 임원  
 2022\. 한성대학교 제24대 IT공과대학 학생회 홍보국장  
+2022.08. ~ ing. 한성대학교 컴퓨터공학부 소모임 BUG 부회장  
+2023\. 한성대학교 제25대 IT공과대학 학생회 부학생회장  
