@@ -19,8 +19,6 @@ layout: single
 + 다이어리, 투두리스트 작성을 통해 해야 할 일을 체계적으로 계획하고 꾸준히 실천합니다.  
 + 학생회, 동아리 활동 등 사람들과 소통하고 함께 일하는 것을 좋아합니다.  
 
-### 💻 STACKS  
-
 ### 🌳 EXPERIENCE  
 + [GitHub Pages 블로그 🔗](https://betterjeong.github.io/blog/21042401/)  
   + 2021.04. ~ ing.  
