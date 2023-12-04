@@ -3,7 +3,7 @@ title: ""
 permalink: /about/
 layout: single
 ---
-<center><img src="/assets/images/about/221224_about.jpg" width="400" margin="2px"></center>  
+<center><img src="/assets/images/about/about_img.jpg" width="400" margin="2px"></center>  
 
 ### <center>나은정</center>  
 
