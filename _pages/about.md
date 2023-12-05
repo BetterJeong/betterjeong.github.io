@@ -21,7 +21,7 @@ layout: single
 
 ### 🌳 EXPERIENCE  
 + [Hansung University AML Lab 🔗](https://sites.google.com/hansung.ac.kr/aml/%ED%99%88)  
-  + 2022.05. ~ ing.  
+  + 2023.05. ~ ing.  
 
 + 멋쟁이 사자처럼 대학 10기  
   + 2022.03. ~ 2022.12.  
