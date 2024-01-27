@@ -10,14 +10,13 @@ layout: single
 <center>✉ Email: eunjeong42na@gmail.com</center>  
 <center>😸 GitHub: <a href="https://github.com/BetterJeong">https://github.com/BetterJeong</a></center>  
 <center>📷 Instagram: <a href="https://instagram.com/_betterjeong">@_betterjeong</a></center>  
-<center></center>  
+<center>💻 LinkedIn: <a href="https://www.linkedin.com/in/betterjeong">https://www.linkedin.com/in/betterjeong</a> </center>  
 
 ### 🐥 INTRO  
-+ 능력 있는 개발자를 꿈꾸며 컴퓨터공학부에 재학중인 학생입니다.  
 + 다양한 언어를 접하고 끊임없이 도전하는 것을 좋아합니다.  
 + 성실하게, 포기하지 않고 끝까지 임하는 인내심이 있습니다.  
 + 다이어리, 투두리스트 작성을 통해 해야 할 일을 체계적으로 계획하고 꾸준히 실천합니다.  
-+ 학생회, 동아리 활동 등 사람들과 소통하고 함께 일하는 것을 좋아합니다.  
++ 여러 사람들과 소통하고 함께 일하는 것을 좋아합니다.  
 
 ### 🌳 EXPERIENCE  
 + [Hansung University AML Lab 🔗](https://sites.google.com/hansung.ac.kr/aml/%ED%99%88)  
@@ -30,7 +29,7 @@ layout: single
   + 2022.01. ~ 2023.08.  
 
 + 한성대학교 컴퓨터공학부 소모임 BUG  
-  + 2021.09. ~ ing.  
+  + 2021.09. ~ 2023.09.  
 
 + [GitHub Pages 블로그 🔗](https://betterjeong.github.io/blog/21042401/)  
   + 2021.04. ~ ing.  
@@ -42,6 +41,7 @@ layout: single
   + tkinter 부문 금상  
 
 ### 🚀 LIFE  
+2024\. 한성대학교 제39대 총학생회 정책국장  
 2023\. 한성대학교 제25대 IT공과대학 학생회 부학생회장  
 2022.08. ~ 2023. 08. 한성대학교 컴퓨터공학부 소모임 BUG 부회장  
 2022\. 한성대학교 제24대 IT공과대학 학생회 홍보국장  
