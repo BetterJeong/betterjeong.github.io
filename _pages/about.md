@@ -36,7 +36,7 @@ Vision Software Engineer
 2023.05. ~ 2024.07.  
 
 **[한성대학교 정보전산원 정보화팀 HSD 3기 🔗](https://hansung.ac.kr/info/8632/subview.do)**  
-교내 셔틀버스 앱 서버 유지 보수  
+교내 셔틀버스 앱 서버 유지 보수 및 추가 개발  
 2022.01. ~ 2023.08.  
 
 ### PUBLICATIONS AND PRESENTATIONS
