@@ -13,7 +13,7 @@ layout: single
 <center>💻 LinkedIn: <a href="https://www.linkedin.com/in/betterjeong">https://www.linkedin.com/in/betterjeong</a> </center>  
 
 ### INTRO  
-+ 다양한 언어를 접하고 끊임없이 도전하는 것을 좋아합니다.  
++ 다양한 기술을 접하고 끊임없이 도전하는 것을 좋아합니다.  
 + 성실하게, 포기하지 않고 끝까지 임하는 인내심이 있습니다.  
 + 해야 할 일을 체계적으로 계획하고 꾸준히 실천합니다.  
 + 여러 사람들과 소통하고 함께 일하는 것을 좋아합니다.  
