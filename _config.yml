@@ -97,28 +97,28 @@ analytics:
 author:
   name             : "Better Jeong"
   avatar           : "/assets/images/profile/profile_img.jpg" # 프로필 이미지
-  bio              : "The student who wants to learn a lot"
+  bio              : "Vision Software Engineer"
   location         : "Seoul, South Korea"
   email            :
   links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
   #    url: ""
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/betterjeong"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/betterjeong/"
+    - label: Instagram
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_betterjeong"
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/betterjeong"
-    - label: Instagram
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/_betterjeong"
 
 # Site Footer
 footer:
