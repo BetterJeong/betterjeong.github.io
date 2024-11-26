@@ -54,7 +54,7 @@ Sustainability (SCIE, IF=3.9, Q2)
 2023. 11.  
 
 **Development of user-friendly machine vision defect detection software with Chat-bot**  
-Eunjeong, Wonyong Choi, Keejun Han*  
+Eunjeong NA, Wonyong Choi, Keejun Han*  
 21st International Symposium on Microelectronics and Packaging (ISMP 2023)  
 poster presentation (accepted)  
 2023. 11.  
