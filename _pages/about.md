@@ -45,19 +45,19 @@ Vision Software Engineer
 Eunjeong Na, Wonyong Choi, Keejun Han*  
 2024 HCI KOREA  
 oral presentation (accepted)  
-2024. 01.  
+2024\. 01\.  
 
 **Recommending K-Wave Items Tailored for Small-Sized Exporters by Incorporating Dense and Sparse Vectors**  
 Jimin Lee, Eunjeong Na, Keejun Han* and Donggil Na*  
 Sustainability (SCIE, IF=3.9, Q2) 
 (accepted)  
-2023. 11.  
+2023\. 11\.  
 
 **Development of user-friendly machine vision defect detection software with Chat-bot**  
 Eunjeong NA, Wonyong Choi, Keejun Han*  
 21st International Symposium on Microelectronics and Packaging (ISMP 2023)  
 poster presentation (accepted)  
-2023. 11.  
+2023\. 11\.  
 
 ### ADDITIONAL EXPERIENCE  
 
