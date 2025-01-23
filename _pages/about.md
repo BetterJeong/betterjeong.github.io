@@ -22,13 +22,13 @@ layout: single
 **Hansung University, Seoul, South Korea**  
 B.S. Candidate in Computer Science and Engineering  
 
-GPA: 4.12/4.5  
+GPA: 4.11/4.5  
 
 ### WORK EXPERIENCE
 
 **[DeepSeers 🔗](https://deepseers.com/)**  
 Vision Software Engineer  
-2024.07. ~ ing.  
+2024.07. ~ present.  
 
 **[Hansung University AML Lab 🔗](https://sites.google.com/hansung.ac.kr/aml/%ED%99%88)**  
 반도체 소자 생산을 위한 인공지능 기반 스마트 제조 공정 장비 및 관련 기술 개발  
@@ -89,7 +89,7 @@ poster presentation (accepted)
 2021.09. ~ 2022.01.  
 
 **[GitHub Pages 블로그 🔗](https://betterjeong.github.io/blog/21042401/)**  
-2021.04. ~ ing.  
+2021.04. ~ present.  
 
 **한성대학교 컴퓨터공학부 학생회**  
 2021\.  
